@@ -1,2 +1,2 @@
 # planets
-Demo repo for eScience essential skills workshop
+Lets explore the universe.
